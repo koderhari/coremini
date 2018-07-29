@@ -1,0 +1,17 @@
+[
+{
+  "product": "product1",
+  "qty":1,
+  "price":1234.54
+},
+{
+  "product": "product2",
+  "qty":2,
+  "price":1234.54
+},
+{
+  "product": "product3",
+  "qty":3,
+  "price":1234.54
+}
+]
